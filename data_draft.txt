@@ -1,0 +1,26 @@
+Buildings
+  Town hall, museum, etc
+
+Nook miles
+
+NPCs
+  Labelle
+
+Fruit
+
+Art
+  Can be fake
+
+Fish
+  Months available, time
+
+Bugs
+  Months available, time
+
+Fossils
+
+Flowers
+  Breed, Color, is hybrid
+
+Recipes
+  Story based, seasonal, from balloon, from event?
