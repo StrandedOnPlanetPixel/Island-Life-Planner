@@ -1,17 +1,18 @@
 {
   "name": "Island-Life-Planner",
   "version": "1.0.0",
-  "description": "*[COMING SOON]* An **Animal Crossing New Horizons** companion app to track anything and everything",
-  "main": "index.js",
+  "description": "An **Animal Crossing New Horizons** companion app to track anything and everything",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StrandedOnPlanetPixel/Island-Life-Planner.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "StrandedOnPlanetPixel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/StrandedOnPlanetPixel/Island-Life-Planner/issues"
