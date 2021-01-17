@@ -1,4 +1,6 @@
-const { app, BrowserWindow } = require('electron')
+const { app, Menu, BrowserWindow, nativeTheme } = require('electron')
+
+const isMac = process.platform === 'darwin'
 
 function createWindow () {
   const win = new BrowserWindow({
@@ -10,6 +12,8 @@ function createWindow () {
   })
 
   win.loadFile('index.html')
+
+  nativeTheme.themeSource = 'dark'
 }
 
 app.whenReady().then(createWindow)
