@@ -1,119 +1,1957 @@
-{
-	"villagers": [{
-		"name": "Admiral",
-		"birthMonth": 1,
-		"birthdayDay": 27,
-		"wikiLink": ""
-	}, {
-		"name": "Agent S",
-		"birthMonth": 7,
-		"birthdayDay": 2,
-		"wikiLink": ""
-    }, {
-		"name": "Agnes",
-		"birthMonth": 4,
-		"birthdayDay": 21,
-		"wikiLink": ""
-    }, {
-		"name": "Al",
-		"birthMonth": 10,
-		"birthdayDay": 18,
-		"wikiLink": ""
-    }, {
-		"name": "Alfonso",
-		"birthMonth": 6,
-		"birthdayDay": 9,
-		"wikiLink": ""
-    }, {
-		"name": "Alice",
-		"birthMonth": 8,
-		"birthdayDay": 9,
-		"wikiLink": ""
-    }, {
-		"name": "Alli",
-		"birthMonth": 11,
-		"birthdayDay": 8,
-		"wikiLink": ""
-    }, {
-		"name": "Amelia",
-		"birthMonth": 11,
-		"birthdayDay": 19,
-		"wikiLink": ""
-    }, {
-		"name": "Anabelle",
-		"birthMonth": 2,
-		"birthdayDay": 16,
-		"wikiLink": ""
-    }, {
-		"name": "Anchovy",
-		"birthMonth": 3,
-		"birthdayDay": 4,
-		"wikiLink": ""
-    }, {
-		"name": "Angus",
-		"birthMonth": 4,
-		"birthdayDay": 30,
-		"wikiLink": ""
-    }, {
-		"name": "Anicotti",
-		"birthMonth": 2,
-		"birthdayDay": 24,
-		"wikiLink": ""
-    }, {
-		"name": "Ankha",
-		"birthMonth": 9,
-		"birthdayDay": 22,
-		"wikiLink": ""
-    }, {
-		"name": "Annalisa",
-		"birthMonth": 2,
-		"birthdayDay": 6,
-		"wikiLink": ""
-    }, {
-		"name": "Annalise",
-		"birthMonth": 12,
-		"birthdayDay": 2,
-		"wikiLink": ""
-    }, {
-		"name": "Antonio",
-		"birthMonth": 10,
-		"birthdayDay": 20,
-		"wikiLink": ""
-    }, {
-		"name": "Apollo",
-		"birthMonth": 7,
-		"birthdayDay": 4,
-		"wikiLink": ""
-    }, {
-		"name": "Apple",
-		"birthMonth": 9,
-		"birthdayDay": 24,
-		"wikiLink": ""
-    }, {
-		"name": "Astrid",
-		"birthMonth": 9,
-		"birthdayDay": 8,
-		"wikiLink": ""
-    }, {
-		"name": "Audie",
-		"birthMonth": 8,
-		"birthdayDay": 31,
-		"wikiLink": ""
-    }, {
-		"name": "Aurora",
-		"birthMonth": 1,
-		"birthdayDay": 27,
-		"wikiLink": ""
-    }, {
-		"name": "Ava",
-		"birthMonth": 4,
-		"birthdayDay": 28,
-		"wikiLink": ""
-    }, {
-		"name": "Avery",
-		"birthMonth": 2,
-		"birthdayDay": 22,
-		"wikiLink": ""
+[
+    {
+        "name": "Admiral",
+        "birthday-string": "January 27th",
+        "birthday": "27/1"
+    },
+    {
+        "name": "Agent S",
+        "birthday-string": "July 2nd",
+        "birthday": "2/7"
+    },
+    {
+        "name": "Agnes",
+        "birthday-string": "April 21st",
+        "birthday": "21/4"
+    },
+    {
+        "name": "Al",
+        "birthday-string": "October 18th",
+        "birthday": "18/10"
+    },
+    {
+        "name": "Alfonso",
+        "birthday-string": "June 9th",
+        "birthday": "9/6"
+    },
+    {
+        "name": "Alice",
+        "birthday-string": "August 19th",
+        "birthday": "19/8"
+    },
+    {
+        "name": "Alli",
+        "birthday-string": "November 8th",
+        "birthday": "8/11"
+    },
+    {
+        "name": "Amelia",
+        "birthday-string": "November 19th",
+        "birthday": "19/11"
+    },
+    {
+        "name": "Anabelle",
+        "birthday-string": "February 16th",
+        "birthday": "16/2"
+    },
+    {
+        "name": "Anchovy",
+        "birthday-string": "March 4th",
+        "birthday": "4/3"
+    },
+    {
+        "name": "Angus",
+        "birthday-string": "April 30th",
+        "birthday": "30/4"
+    },
+    {
+        "name": "Anicotti",
+        "birthday-string": "February 24th",
+        "birthday": "24/2"
+    },
+    {
+        "name": "Ankha",
+        "birthday-string": "September 22nd",
+        "birthday": "22/9"
+    },
+    {
+        "name": "Annalisa",
+        "birthday-string": "February 6th",
+        "birthday": "6/2"
+    },
+    {
+        "name": "Annalise",
+        "birthday-string": "December 2nd",
+        "birthday": "2/12"
+    },
+    {
+        "name": "Antonio",
+        "birthday-string": "October 20th",
+        "birthday": "20/10"
+    },
+    {
+        "name": "Apollo",
+        "birthday-string": "July 4th",
+        "birthday": "4/7"
+    },
+    {
+        "name": "Apple",
+        "birthday-string": "September 24th",
+        "birthday": "24/9"
+    },
+    {
+        "name": "Astrid",
+        "birthday-string": "September 8th",
+        "birthday": "8/9"
+    },
+    {
+        "name": "Audie",
+        "birthday-string": "August 31st",
+        "birthday": "31/8"
+    },
+    {
+        "name": "Aurora",
+        "birthday-string": "January 27th",
+        "birthday": "27/1"
+    },
+    {
+        "name": "Ava",
+        "birthday-string": "April 28th",
+        "birthday": "28/4"
+    },
+    {
+        "name": "Avery",
+        "birthday-string": "February 22nd",
+        "birthday": "22/2"
+    },
+    {
+        "name": "Axel",
+        "birthday-string": "March 23rd",
+        "birthday": "23/3"
+    },
+    {
+        "name": "Baabara",
+        "birthday-string": "March 28th",
+        "birthday": "28/3"
+    },
+    {
+        "name": "Bam",
+        "birthday-string": "November 7th",
+        "birthday": "7/11"
+    },
+    {
+        "name": "Bangle",
+        "birthday-string": "August 27th",
+        "birthday": "27/8"
+    },
+    {
+        "name": "Barold",
+        "birthday-string": "March 2nd",
+        "birthday": "2/3"
+    },
+    {
+        "name": "Bea",
+        "birthday-string": "October 15th",
+        "birthday": "15/10"
+    },
+    {
+        "name": "Beardo",
+        "birthday-string": "September 27th",
+        "birthday": "27/9"
+    },
+    {
+        "name": "Beau",
+        "birthday-string": "April 5th",
+        "birthday": "5/4"
+    },
+    {
+        "name": "Becky",
+        "birthday-string": "December 9th",
+        "birthday": "9/12"
+    },
+    {
+        "name": "Bella",
+        "birthday-string": "December 28th",
+        "birthday": "28/12"
+    },
+    {
+        "name": "Benedict",
+        "birthday-string": "October 10th",
+        "birthday": "10/10"
+    },
+    {
+        "name": "Benjamin",
+        "birthday-string": "August 3rd",
+        "birthday": "3/8"
+    },
+    {
+        "name": "Bertha",
+        "birthday-string": "April 25th",
+        "birthday": "25/4"
+    },
+    {
+        "name": "Bettina",
+        "birthday-string": "June 12th",
+        "birthday": "12/6"
+    },
+    {
+        "name": "Bianca",
+        "birthday-string": "December 13th",
+        "birthday": "13/12"
+    },
+    {
+        "name": "Biff",
+        "birthday-string": "March 29th",
+        "birthday": "29/3"
+    },
+    {
+        "name": "Big Top",
+        "birthday-string": "October 3rd",
+        "birthday": "3/10"
+    },
+    {
+        "name": "Bill",
+        "birthday-string": "February 1st",
+        "birthday": "1/2"
+    },
+    {
+        "name": "Billy",
+        "birthday-string": "March 25th",
+        "birthday": "25/3"
+    },
+    {
+        "name": "Biskit",
+        "birthday-string": "May 13th",
+        "birthday": "13/5"
+    },
+    {
+        "name": "Bitty",
+        "birthday-string": "October 6th",
+        "birthday": "6/10"
+    },
+    {
+        "name": "Blaire",
+        "birthday-string": "July 3rd",
+        "birthday": "3/7"
+    },
+    {
+        "name": "Blanche",
+        "birthday-string": "December 21st",
+        "birthday": "21/12"
+    },
+    {
+        "name": "Bluebear",
+        "birthday-string": "June 24th",
+        "birthday": "24/6"
+    },
+    {
+        "name": "Bob",
+        "birthday-string": "January 1st",
+        "birthday": "1/1"
+    },
+    {
+        "name": "Bonbon",
+        "birthday-string": "March 3rd",
+        "birthday": "3/3"
+    },
+    {
+        "name": "Bones",
+        "birthday-string": "August 4th",
+        "birthday": "4/8"
+    },
+    {
+        "name": "Boomer",
+        "birthday-string": "February 7th",
+        "birthday": "7/2"
+    },
+    {
+        "name": "Boone",
+        "birthday-string": "September 12th",
+        "birthday": "12/9"
+    },
+    {
+        "name": "Boots",
+        "birthday-string": "August 7th",
+        "birthday": "7/8"
+    },
+    {
+        "name": "Boris",
+        "birthday-string": "November 6th",
+        "birthday": "6/11"
+    },
+    {
+        "name": "Boyd",
+        "birthday-string": "October 1st",
+        "birthday": "1/10"
+    },
+    {
+        "name": "Bree",
+        "birthday-string": "July 7th",
+        "birthday": "7/7"
+    },
+    {
+        "name": "Broccolo",
+        "birthday-string": "June 30th",
+        "birthday": "30/6"
+    },
+    {
+        "name": "Broffina",
+        "birthday-string": "October 24th",
+        "birthday": "24/10"
+    },
+    {
+        "name": "Bruce",
+        "birthday-string": "May 26th",
+        "birthday": "26/5"
+    },
+    {
+        "name": "Bubbles",
+        "birthday-string": "September 18th",
+        "birthday": "18/9"
+    },
+    {
+        "name": "Buck",
+        "birthday-string": "April 4th",
+        "birthday": "4/4"
+    },
+    {
+        "name": "Bud",
+        "birthday-string": "August 8th",
+        "birthday": "8/8"
+    },
+    {
+        "name": "Bunnie",
+        "birthday-string": "May 9th",
+        "birthday": "9/5"
+    },
+    {
+        "name": "Butch",
+        "birthday-string": "November 1st",
+        "birthday": "1/11"
+    },
+    {
+        "name": "Buzz",
+        "birthday-string": "December 7th",
+        "birthday": "7/12"
+    },
+    {
+        "name": "Cally",
+        "birthday-string": "September 4th",
+        "birthday": "4/9"
+    },
+    {
+        "name": "Camofrog",
+        "birthday-string": "June 5th",
+        "birthday": "5/6"
+    },
+    {
+        "name": "Canberra",
+        "birthday-string": "May 14th",
+        "birthday": "14/5"
+    },
+    {
+        "name": "Candi",
+        "birthday-string": "April 13th",
+        "birthday": "13/4"
+    },
+    {
+        "name": "Carmen",
+        "birthday-string": "January 6th",
+        "birthday": "6/1"
+    },
+    {
+        "name": "Caroline",
+        "birthday-string": "July 15th",
+        "birthday": "15/7"
+    },
+    {
+        "name": "Carrie",
+        "birthday-string": "December 5th",
+        "birthday": "5/12"
+    },
+    {
+        "name": "Cashmere",
+        "birthday-string": "April 2nd",
+        "birthday": "2/4"
+    },
+    {
+        "name": "Celia",
+        "birthday-string": "March 25th",
+        "birthday": "25/3"
+    },
+    {
+        "name": "Cesar",
+        "birthday-string": "September 6th",
+        "birthday": "6/9"
+    },
+    {
+        "name": "Chadder",
+        "birthday-string": "December 15th",
+        "birthday": "15/12"
+    },
+    {
+        "name": "Charlise",
+        "birthday-string": "April 17th",
+        "birthday": "17/4"
+    },
+    {
+        "name": "Cheri",
+        "birthday-string": "March 17th",
+        "birthday": "17/3"
+    },
+    {
+        "name": "Cherry",
+        "birthday-string": "May 11th",
+        "birthday": "11/5"
+    },
+    {
+        "name": "Chester",
+        "birthday-string": "August 6th",
+        "birthday": "6/8"
+    },
+    {
+        "name": "Chevre",
+        "birthday-string": "March 6th",
+        "birthday": "6/3"
+    },
+    {
+        "name": "Chief",
+        "birthday-string": "December 19th",
+        "birthday": "19/12"
+    },
+    {
+        "name": "Chops",
+        "birthday-string": "October 13th",
+        "birthday": "13/10"
+    },
+    {
+        "name": "Chow",
+        "birthday-string": "July 22nd",
+        "birthday": "22/7"
+    },
+    {
+        "name": "Chrissy",
+        "birthday-string": "August 28th",
+        "birthday": "28/8"
+    },
+    {
+        "name": "Claude",
+        "birthday-string": "December 3rd",
+        "birthday": "3/12"
+    },
+    {
+        "name": "Claudia",
+        "birthday-string": "November 22nd",
+        "birthday": "22/11"
+    },
+    {
+        "name": "Clay",
+        "birthday-string": "October 19th",
+        "birthday": "19/10"
+    },
+    {
+        "name": "Cleo",
+        "birthday-string": "February 9th",
+        "birthday": "9/2"
+    },
+    {
+        "name": "Clyde",
+        "birthday-string": "May 1st",
+        "birthday": "1/5"
+    },
+    {
+        "name": "Coach",
+        "birthday-string": "April 29th",
+        "birthday": "29/4"
+    },
+    {
+        "name": "Cobb",
+        "birthday-string": "October 7th",
+        "birthday": "7/10"
+    },
+    {
+        "name": "Coco",
+        "birthday-string": "March 1st",
+        "birthday": "1/3"
+    },
+    {
+        "name": "Cole",
+        "birthday-string": "August 10th",
+        "birthday": "10/8"
+    },
+    {
+        "name": "Colton",
+        "birthday-string": "May 22nd",
+        "birthday": "22/5"
+    },
+    {
+        "name": "Cookie",
+        "birthday-string": "June 18th",
+        "birthday": "18/6"
+    },
+    {
+        "name": "Cousteau",
+        "birthday-string": "December 17th",
+        "birthday": "17/12"
+    },
+    {
+        "name": "Cranston",
+        "birthday-string": "September 23rd",
+        "birthday": "23/9"
+    },
+    {
+        "name": "Croque",
+        "birthday-string": "July 18th",
+        "birthday": "18/7"
+    },
+    {
+        "name": "Cube",
+        "birthday-string": "January 29th",
+        "birthday": "29/1"
+    },
+    {
+        "name": "Curlos",
+        "birthday-string": "May 8th",
+        "birthday": "8/5"
+    },
+    {
+        "name": "Curly",
+        "birthday-string": "July 26th",
+        "birthday": "26/7"
+    },
+    {
+        "name": "Curt",
+        "birthday-string": "July 1st",
+        "birthday": "1/7"
+    },
+    {
+        "name": "Cyd",
+        "birthday-string": "June 9th",
+        "birthday": "9/6"
+    },
+    {
+        "name": "Cyrano",
+        "birthday-string": "March 9th",
+        "birthday": "9/3"
+    },
+    {
+        "name": "Daisy",
+        "birthday-string": "November 16th",
+        "birthday": "16/11"
+    },
+    {
+        "name": "Deena",
+        "birthday-string": "June 27th",
+        "birthday": "27/6"
+    },
+    {
+        "name": "Deirdre",
+        "birthday-string": "May 4th",
+        "birthday": "4/5"
+    },
+    {
+        "name": "Del",
+        "birthday-string": "May 27th",
+        "birthday": "27/5"
+    },
+    {
+        "name": "Deli",
+        "birthday-string": "May 24th",
+        "birthday": "24/5"
+    },
+    {
+        "name": "Derwin",
+        "birthday-string": "May 25th",
+        "birthday": "25/5"
+    },
+    {
+        "name": "Diana",
+        "birthday-string": "January 4th",
+        "birthday": "4/1"
+    },
+    {
+        "name": "Diva",
+        "birthday-string": "October 2nd",
+        "birthday": "2/10"
+    },
+    {
+        "name": "Dizzy",
+        "birthday-string": "July 14th",
+        "birthday": "14/7"
+    },
+    {
+        "name": "Dobie",
+        "birthday-string": "February 17th",
+        "birthday": "17/2"
+    },
+    {
+        "name": "Doc",
+        "birthday-string": "March 16th",
+        "birthday": "16/3"
+    },
+    {
+        "name": "Dom",
+        "birthday-string": "March 18th",
+        "birthday": "18/3"
+    },
+    {
+        "name": "Dora",
+        "birthday-string": "February 18th",
+        "birthday": "18/2"
+    },
+    {
+        "name": "Dotty",
+        "birthday-string": "March 14th",
+        "birthday": "14/3"
+    },
+    {
+        "name": "Drago",
+        "birthday-string": "February 12th",
+        "birthday": "12/2"
+    },
+    {
+        "name": "Drake",
+        "birthday-string": "June 25th",
+        "birthday": "25/6"
+    },
+    {
+        "name": "Drift",
+        "birthday-string": "October 9th",
+        "birthday": "9/10"
+    },
+    {
+        "name": "Ed",
+        "birthday-string": "September 16th",
+        "birthday": "16/9"
+    },
+    {
+        "name": "Egbert",
+        "birthday-string": "October 14th",
+        "birthday": "14/10"
+    },
+    {
+        "name": "Elise",
+        "birthday-string": "March 21st",
+        "birthday": "21/3"
+    },
+    {
+        "name": "Ellie",
+        "birthday-string": "May 12th",
+        "birthday": "12/5"
+    },
+    {
+        "name": "Elmer",
+        "birthday-string": "October 5th",
+        "birthday": "5/10"
+    },
+    {
+        "name": "Eloise",
+        "birthday-string": "December 8th",
+        "birthday": "8/12"
+    },
+    {
+        "name": "Elvis",
+        "birthday-string": "July 23rd",
+        "birthday": "23/7"
+    },
+    {
+        "name": "Erik",
+        "birthday-string": "July 27th",
+        "birthday": "27/7"
+    },
+    {
+        "name": "Eugene",
+        "birthday-string": "October 26th",
+        "birthday": "26/10"
+    },
+    {
+        "name": "Eunice",
+        "birthday-string": "April 3rd",
+        "birthday": "3/4"
+    },
+    {
+        "name": "Fang",
+        "birthday-string": "December 18th",
+        "birthday": "18/12"
+    },
+    {
+        "name": "Fauna",
+        "birthday-string": "March 26th",
+        "birthday": "26/3"
+    },
+    {
+        "name": "Felicity",
+        "birthday-string": "March 30th",
+        "birthday": "30/3"
+    },
+    {
+        "name": "Filbert",
+        "birthday-string": "June 3rd",
+        "birthday": "3/6"
+    },
+    {
+        "name": "Flip",
+        "birthday-string": "November 21st",
+        "birthday": "21/11"
+    },
+    {
+        "name": "Flo",
+        "birthday-string": "September 2nd",
+        "birthday": "2/9"
+    },
+    {
+        "name": "Flora",
+        "birthday-string": "February 9th",
+        "birthday": "9/2"
+    },
+    {
+        "name": "Flurry",
+        "birthday-string": "January 30th",
+        "birthday": "30/1"
+    },
+    {
+        "name": "Francine",
+        "birthday-string": "January 22nd",
+        "birthday": "22/1"
+    },
+    {
+        "name": "Frank",
+        "birthday-string": "July 30th",
+        "birthday": "30/7"
+    },
+    {
+        "name": "Freckles",
+        "birthday-string": "February 19th",
+        "birthday": "19/2"
+    },
+    {
+        "name": "Freya",
+        "birthday-string": "December 14th",
+        "birthday": "14/12"
+    },
+    {
+        "name": "Friga",
+        "birthday-string": "October 16th",
+        "birthday": "16/10"
+    },
+    {
+        "name": "Frita",
+        "birthday-string": "July 16th",
+        "birthday": "16/7"
+    },
+    {
+        "name": "Frobert",
+        "birthday-string": "February 8th",
+        "birthday": "8/2"
+    },
+    {
+        "name": "Fuchsia",
+        "birthday-string": "September 19th",
+        "birthday": "19/9"
+    },
+    {
+        "name": "Gabi",
+        "birthday-string": "December 16th",
+        "birthday": "16/12"
+    },
+    {
+        "name": "Gala",
+        "birthday-string": "March 5th",
+        "birthday": "5/3"
+    },
+    {
+        "name": "Gaston",
+        "birthday-string": "October 28th",
+        "birthday": "28/10"
+    },
+    {
+        "name": "Gayle",
+        "birthday-string": "May 17th",
+        "birthday": "17/5"
+    },
+    {
+        "name": "Genji",
+        "birthday-string": "January 21st",
+        "birthday": "21/1"
+    },
+    {
+        "name": "Gigi",
+        "birthday-string": "August 11th",
+        "birthday": "11/8"
+    },
+    {
+        "name": "Gladys",
+        "birthday-string": "January 15th",
+        "birthday": "15/1"
+    },
+    {
+        "name": "Gloria",
+        "birthday-string": "August 12th",
+        "birthday": "12/8"
+    },
+    {
+        "name": "Goldie",
+        "birthday-string": "December 27th",
+        "birthday": "27/12"
+    },
+    {
+        "name": "Gonzo",
+        "birthday-string": "October 13th",
+        "birthday": "13/10"
+    },
+    {
+        "name": "Goose",
+        "birthday-string": "October 4th",
+        "birthday": "4/10"
+    },
+    {
+        "name": "Graham",
+        "birthday-string": "June 20th",
+        "birthday": "20/6"
+    },
+    {
+        "name": "Greta",
+        "birthday-string": "September 5th",
+        "birthday": "5/9"
+    },
+    {
+        "name": "Grizzly",
+        "birthday-string": "July 31st",
+        "birthday": "31/7"
+    },
+    {
+        "name": "Groucho",
+        "birthday-string": "October 23rd",
+        "birthday": "23/10"
+    },
+    {
+        "name": "Gruff",
+        "birthday-string": "August 29th",
+        "birthday": "29/8"
+    },
+    {
+        "name": "Gwen",
+        "birthday-string": "January 23rd",
+        "birthday": "23/1"
+    },
+    {
+        "name": "Hamlet",
+        "birthday-string": "May 30th",
+        "birthday": "30/5"
+    },
+    {
+        "name": "Hamphrey",
+        "birthday-string": "February 25th",
+        "birthday": "25/2"
+    },
+    {
+        "name": "Hans",
+        "birthday-string": "December 5th",
+        "birthday": "5/12"
+    },
+    {
+        "name": "Harry",
+        "birthday-string": "January 7th",
+        "birthday": "7/1"
+    },
+    {
+        "name": "Hazel",
+        "birthday-string": "August 30th",
+        "birthday": "30/8"
+    },
+    {
+        "name": "Henry",
+        "birthday-string": "September 21st",
+        "birthday": "21/9"
+    },
+    {
+        "name": "Hippeux",
+        "birthday-string": "October 15th",
+        "birthday": "15/10"
+    },
+    {
+        "name": "Hopkins",
+        "birthday-string": "March 11th",
+        "birthday": "11/3"
+    },
+    {
+        "name": "Hopper",
+        "birthday-string": "April 6th",
+        "birthday": "6/4"
+    },
+    {
+        "name": "Hornsby",
+        "birthday-string": "March 20th",
+        "birthday": "20/3"
+    },
+    {
+        "name": "Huck",
+        "birthday-string": "July 9th",
+        "birthday": "9/7"
+    },
+    {
+        "name": "Hugh",
+        "birthday-string": "December 30th",
+        "birthday": "30/12"
+    },
+    {
+        "name": "Iggly",
+        "birthday-string": "November 2nd",
+        "birthday": "2/11"
+    },
+    {
+        "name": "Ike",
+        "birthday-string": "May 16th",
+        "birthday": "16/5"
+    },
+    {
+        "name": "Jacob",
+        "birthday-string": "August 24th",
+        "birthday": "24/8"
+    },
+    {
+        "name": "Jacques",
+        "birthday-string": "June 22nd",
+        "birthday": "22/6"
+    },
+    {
+        "name": "Jambette",
+        "birthday-string": "October 27th",
+        "birthday": "27/10"
+    },
+    {
+        "name": "Jay",
+        "birthday-string": "July 17th",
+        "birthday": "17/7"
+    },
+    {
+        "name": "Jeremiah",
+        "birthday-string": "July 8th",
+        "birthday": "8/7"
+    },
+    {
+        "name": "Jitters",
+        "birthday-string": "February 2nd",
+        "birthday": "2/2"
+    },
+    {
+        "name": "Joey",
+        "birthday-string": "January 3rd",
+        "birthday": "3/1"
+    },
+    {
+        "name": "Judy",
+        "birthday-string": "March 10th",
+        "birthday": "10/3"
+    },
+    {
+        "name": "Julia",
+        "birthday-string": "July 31st",
+        "birthday": "31/7"
+    },
+    {
+        "name": "Julian",
+        "birthday-string": "March 15th",
+        "birthday": "15/3"
+    },
+    {
+        "name": "June",
+        "birthday-string": "May 21st",
+        "birthday": "21/5"
+    },
+    {
+        "name": "Kabuki",
+        "birthday-string": "November 29th",
+        "birthday": "29/11"
+    },
+    {
+        "name": "Katt",
+        "birthday-string": "April 27th",
+        "birthday": "27/4"
+    },
+    {
+        "name": "Keaton",
+        "birthday-string": "June 1st",
+        "birthday": "1/6"
+    },
+    {
+        "name": "Ken",
+        "birthday-string": "December 23rd",
+        "birthday": "23/12"
+    },
+    {
+        "name": "Ketchup",
+        "birthday-string": "July 27th",
+        "birthday": "27/7"
+    },
+    {
+        "name": "Kevin",
+        "birthday-string": "April 26th",
+        "birthday": "26/4"
+    },
+    {
+        "name": "Kid Cat",
+        "birthday-string": "August 1st",
+        "birthday": "1/8"
+    },
+    {
+        "name": "Kidd",
+        "birthday-string": "June 28th",
+        "birthday": "28/6"
+    },
+    {
+        "name": "Kiki",
+        "birthday-string": "October 8th",
+        "birthday": "8/10"
+    },
+    {
+        "name": "Kitt",
+        "birthday-string": "October 11th",
+        "birthday": "11/10"
+    },
+    {
+        "name": "Kitty",
+        "birthday-string": "February 15th",
+        "birthday": "15/2"
+    },
+    {
+        "name": "Klaus",
+        "birthday-string": "March 31st",
+        "birthday": "31/3"
+    },
+    {
+        "name": "Knox",
+        "birthday-string": "November 23rd",
+        "birthday": "23/11"
+    },
+    {
+        "name": "Kody",
+        "birthday-string": "September 28th",
+        "birthday": "28/9"
+    },
+    {
+        "name": "Kyle",
+        "birthday-string": "December 6th",
+        "birthday": "6/12"
+    },
+    {
+        "name": "Leonardo",
+        "birthday-string": "May 15th",
+        "birthday": "15/5"
+    },
+    {
+        "name": "Leopold",
+        "birthday-string": "August 14th",
+        "birthday": "14/8"
+    },
+    {
+        "name": "Lily",
+        "birthday-string": "February 4th",
+        "birthday": "4/2"
+    },
+    {
+        "name": "Limberg",
+        "birthday-string": "October 17th",
+        "birthday": "17/10"
+    },
+    {
+        "name": "Lionel",
+        "birthday-string": "July 29th",
+        "birthday": "29/7"
+    },
+    {
+        "name": "Lobo",
+        "birthday-string": "November 5th",
+        "birthday": "5/11"
+    },
+    {
+        "name": "Lolly",
+        "birthday-string": "March 27th",
+        "birthday": "27/3"
+    },
+    {
+        "name": "Lopez",
+        "birthday-string": "August 20th",
+        "birthday": "20/8"
+    },
+    {
+        "name": "Louie",
+        "birthday-string": "March 26th",
+        "birthday": "26/3"
+    },
+    {
+        "name": "Lucha",
+        "birthday-string": "December 12th",
+        "birthday": "12/12"
+    },
+    {
+        "name": "Lucky",
+        "birthday-string": "November 4th",
+        "birthday": "4/11"
+    },
+    {
+        "name": "Lucy",
+        "birthday-string": "June 2nd",
+        "birthday": "2/6"
+    },
+    {
+        "name": "Lyman",
+        "birthday-string": "October 12th",
+        "birthday": "12/10"
+    },
+    {
+        "name": "Mac",
+        "birthday-string": "November 11th",
+        "birthday": "11/11"
+    },
+    {
+        "name": "Maddie",
+        "birthday-string": "January 11th",
+        "birthday": "11/1"
+    },
+    {
+        "name": "Maelle",
+        "birthday-string": "April 8th",
+        "birthday": "8/4"
+    },
+    {
+        "name": "Maggie",
+        "birthday-string": "September 3rd",
+        "birthday": "3/9"
+    },
+    {
+        "name": "Mallary",
+        "birthday-string": "November 17th",
+        "birthday": "17/11"
+    },
+    {
+        "name": "Maple",
+        "birthday-string": "June 15th",
+        "birthday": "15/6"
+    },
+    {
+        "name": "Marcel",
+        "birthday-string": "December 31st",
+        "birthday": "31/12"
+    },
+    {
+        "name": "Marcie",
+        "birthday-string": "May 31st",
+        "birthday": "31/5"
+    },
+    {
+        "name": "Margie",
+        "birthday-string": "January 28th",
+        "birthday": "28/1"
+    },
+    {
+        "name": "Marina",
+        "birthday-string": "June 26th",
+        "birthday": "26/6"
+    },
+    {
+        "name": "Marshal",
+        "birthday-string": "September 29th",
+        "birthday": "29/9"
+    },
+    {
+        "name": "Mathilda",
+        "birthday-string": "November 12th",
+        "birthday": "12/11"
+    },
+    {
+        "name": "Megan",
+        "birthday-string": "March 13th",
+        "birthday": "13/3"
+    },
+    {
+        "name": "Melba",
+        "birthday-string": "April 12th",
+        "birthday": "12/4"
+    },
+    {
+        "name": "Merengue",
+        "birthday-string": "March 19th",
+        "birthday": "19/3"
+    },
+    {
+        "name": "Merry",
+        "birthday-string": "June 29th",
+        "birthday": "29/6"
+    },
+    {
+        "name": "Midge",
+        "birthday-string": "March 12th",
+        "birthday": "12/3"
+    },
+    {
+        "name": "Mint",
+        "birthday-string": "May 2nd",
+        "birthday": "2/5"
+    },
+    {
+        "name": "Mira",
+        "birthday-string": "July 6th",
+        "birthday": "6/7"
+    },
+    {
+        "name": "Miranda",
+        "birthday-string": "April 23rd",
+        "birthday": "23/4"
+    },
+    {
+        "name": "Mitzi",
+        "birthday-string": "September 25th",
+        "birthday": "25/9"
+    },
+    {
+        "name": "Moe",
+        "birthday-string": "January 12th",
+        "birthday": "12/1"
+    },
+    {
+        "name": "Molly",
+        "birthday-string": "March 7th",
+        "birthday": "7/3"
+    },
+    {
+        "name": "Monique",
+        "birthday-string": "September 30th",
+        "birthday": "30/9"
+    },
+    {
+        "name": "Monty",
+        "birthday-string": "December 7th",
+        "birthday": "7/12"
+    },
+    {
+        "name": "Moose",
+        "birthday-string": "September 13th",
+        "birthday": "13/9"
+    },
+    {
+        "name": "Mott",
+        "birthday-string": "July 10th",
+        "birthday": "10/7"
+    },
+    {
+        "name": "Muffy",
+        "birthday-string": "February 14th",
+        "birthday": "14/2"
+    },
+    {
+        "name": "Murphy",
+        "birthday-string": "December 29th",
+        "birthday": "29/12"
+    },
+    {
+        "name": "Nan",
+        "birthday-string": "August 24th",
+        "birthday": "24/8"
+    },
+    {
+        "name": "Nana",
+        "birthday-string": "August 23rd",
+        "birthday": "23/8"
+    },
+    {
+        "name": "Naomi",
+        "birthday-string": "February 28th",
+        "birthday": "28/2"
+    },
+    {
+        "name": "Nate",
+        "birthday-string": "August 16th",
+        "birthday": "16/8"
+    },
+    {
+        "name": "Nibbles",
+        "birthday-string": "July 19th",
+        "birthday": "19/7"
+    },
+    {
+        "name": "Norma",
+        "birthday-string": "September 20th",
+        "birthday": "20/9"
+    },
+    {
+        "name": "O'Hare",
+        "birthday-string": "July 24th",
+        "birthday": "24/7"
+    },
+    {
+        "name": "Octavian",
+        "birthday-string": "September 20th",
+        "birthday": "20/9"
+    },
+    {
+        "name": "Olaf",
+        "birthday-string": "May 19th",
+        "birthday": "19/5"
+    },
+    {
+        "name": "Olive",
+        "birthday-string": "July 12th",
+        "birthday": "12/7"
+    },
+    {
+        "name": "Olivia",
+        "birthday-string": "February 3rd",
+        "birthday": "3/2"
+    },
+    {
+        "name": "Opal",
+        "birthday-string": "January 20th",
+        "birthday": "20/1"
+    },
+    {
+        "name": "Ozzie",
+        "birthday-string": "May 7th",
+        "birthday": "7/5"
+    },
+    {
+        "name": "Pancetti",
+        "birthday-string": "November 14th",
+        "birthday": "14/11"
+    },
+    {
+        "name": "Pango",
+        "birthday-string": "November 9th",
+        "birthday": "9/11"
+    },
+    {
+        "name": "Paolo",
+        "birthday-string": "May 5th",
+        "birthday": "5/5"
+    },
+    {
+        "name": "Papi",
+        "birthday-string": "January 10th",
+        "birthday": "10/1"
+    },
+    {
+        "name": "Pashmina",
+        "birthday-string": "December 26th",
+        "birthday": "26/12"
+    },
+    {
+        "name": "Pate",
+        "birthday-string": "February 23rd",
+        "birthday": "23/2"
+    },
+    {
+        "name": "Patty",
+        "birthday-string": "May 10th",
+        "birthday": "10/5"
+    },
+    {
+        "name": "Paula",
+        "birthday-string": "March 22nd",
+        "birthday": "22/3"
+    },
+    {
+        "name": "Peaches",
+        "birthday-string": "November 28th",
+        "birthday": "28/11"
+    },
+    {
+        "name": "Peanut",
+        "birthday-string": "June 8th",
+        "birthday": "8/6"
+    },
+    {
+        "name": "Pecan",
+        "birthday-string": "September 10th",
+        "birthday": "10/9"
+    },
+    {
+        "name": "Peck",
+        "birthday-string": "July 25th",
+        "birthday": "25/7"
+    },
+    {
+        "name": "Peewee",
+        "birthday-string": "September 11th",
+        "birthday": "11/9"
+    },
+    {
+        "name": "Peggy",
+        "birthday-string": "May 23rd",
+        "birthday": "23/5"
+    },
+    {
+        "name": "Pekoe",
+        "birthday-string": "May 18th",
+        "birthday": "18/5"
+    },
+    {
+        "name": "Penelope",
+        "birthday-string": "February 5th",
+        "birthday": "5/2"
+    },
+    {
+        "name": "Phil",
+        "birthday-string": "November 27th",
+        "birthday": "27/11"
+    },
+    {
+        "name": "Phoebe",
+        "birthday-string": "April 22nd",
+        "birthday": "22/4"
+    },
+    {
+        "name": "Pierce",
+        "birthday-string": "January 8th",
+        "birthday": "8/1"
+    },
+    {
+        "name": "Pietro",
+        "birthday-string": "April 19th",
+        "birthday": "19/4"
+    },
+    {
+        "name": "Pinky",
+        "birthday-string": "September 9th",
+        "birthday": "9/9"
+    },
+    {
+        "name": "Piper",
+        "birthday-string": "April 18th",
+        "birthday": "18/4"
+    },
+    {
+        "name": "Pippy",
+        "birthday-string": "June 14th",
+        "birthday": "14/6"
+    },
+    {
+        "name": "Plucky",
+        "birthday-string": "October 12th",
+        "birthday": "12/10"
+    },
+    {
+        "name": "Pompom",
+        "birthday-string": "February 11th",
+        "birthday": "11/2"
+    },
+    {
+        "name": "Poncho",
+        "birthday-string": "January 2nd",
+        "birthday": "2/1"
+    },
+    {
+        "name": "Poppy",
+        "birthday-string": "August 5th",
+        "birthday": "5/8"
+    },
+    {
+        "name": "Portia",
+        "birthday-string": "October 25th",
+        "birthday": "25/10"
+    },
+    {
+        "name": "Prince",
+        "birthday-string": "July 21st",
+        "birthday": "21/7"
+    },
+    {
+        "name": "Puck",
+        "birthday-string": "February 21st",
+        "birthday": "21/2"
+    },
+    {
+        "name": "Puddles",
+        "birthday-string": "January 13th",
+        "birthday": "13/1"
+    },
+    {
+        "name": "Pudge",
+        "birthday-string": "June 11th",
+        "birthday": "11/6"
+    },
+    {
+        "name": "Punchy",
+        "birthday-string": "April 11th",
+        "birthday": "11/4"
+    },
+    {
+        "name": "Purrl",
+        "birthday-string": "May 29th",
+        "birthday": "29/5"
+    },
+    {
+        "name": "Queenie",
+        "birthday-string": "November 13th",
+        "birthday": "13/11"
+    },
+    {
+        "name": "Quillson",
+        "birthday-string": "December 22nd",
+        "birthday": "22/12"
+    },
+    {
+        "name": "Raddle",
+        "birthday-string": "June 6th",
+        "birthday": "6/6"
+    },
+    {
+        "name": "Rasher",
+        "birthday-string": "April 7th",
+        "birthday": "7/4"
+    },
+    {
+        "name": "Raymond",
+        "birthday-string": "October 1st",
+        "birthday": "1/10"
+    },
+    {
+        "name": "Reneigh",
+        "birthday-string": "June 4th",
+        "birthday": "4/6"
+    },
+    {
+        "name": "Ren\u00e9e",
+        "birthday-string": "May 28th",
+        "birthday": "28/5"
+    },
+    {
+        "name": "Rex",
+        "birthday-string": "July 24th",
+        "birthday": "24/7"
+    },
+    {
+        "name": "Rhonda",
+        "birthday-string": "January 24th",
+        "birthday": "24/1"
+    },
+    {
+        "name": "Ribbot",
+        "birthday-string": "February 13th",
+        "birthday": "13/2"
+    },
+    {
+        "name": "Ricky",
+        "birthday-string": "September 14th",
+        "birthday": "14/9"
+    },
+    {
+        "name": "Rizzo",
+        "birthday-string": "January 17th",
+        "birthday": "17/1"
+    },
+    {
+        "name": "Roald",
+        "birthday-string": "January 5th",
+        "birthday": "5/1"
+    },
+    {
+        "name": "Robin",
+        "birthday-string": "December 4th",
+        "birthday": "4/12"
+    },
+    {
+        "name": "Rocco",
+        "birthday-string": "August 18th",
+        "birthday": "18/8"
+    },
+    {
+        "name": "Rocket",
+        "birthday-string": "April 14th",
+        "birthday": "14/4"
+    },
+    {
+        "name": "Rod",
+        "birthday-string": "August 14th",
+        "birthday": "14/8"
+    },
+    {
+        "name": "Rodeo",
+        "birthday-string": "October 29th",
+        "birthday": "29/10"
+    },
+    {
+        "name": "Rodney",
+        "birthday-string": "November 10th",
+        "birthday": "10/11"
+    },
+    {
+        "name": "Rolf",
+        "birthday-string": "August 22nd",
+        "birthday": "22/8"
+    },
+    {
+        "name": "Rooney",
+        "birthday-string": "December 1st",
+        "birthday": "1/12"
+    },
+    {
+        "name": "Rory",
+        "birthday-string": "August 7th",
+        "birthday": "7/8"
+    },
+    {
+        "name": "Roscoe",
+        "birthday-string": "June 16th",
+        "birthday": "16/6"
+    },
+    {
+        "name": "Rosie",
+        "birthday-string": "February 27th",
+        "birthday": "27/2"
+    },
+    {
+        "name": "Rowan",
+        "birthday-string": "August 26th",
+        "birthday": "26/8"
+    },
+    {
+        "name": "Ruby",
+        "birthday-string": "December 25th",
+        "birthday": "25/12"
+    },
+    {
+        "name": "Rudy",
+        "birthday-string": "December 20th",
+        "birthday": "20/12"
+    },
+    {
+        "name": "Sally",
+        "birthday-string": "June 19th",
+        "birthday": "19/6"
+    },
+    {
+        "name": "Samson",
+        "birthday-string": "July 5th",
+        "birthday": "5/7"
+    },
+    {
+        "name": "Sandy",
+        "birthday-string": "October 21st",
+        "birthday": "21/10"
+    },
+    {
+        "name": "Savannah",
+        "birthday-string": "January 25th",
+        "birthday": "25/1"
+    },
+    {
+        "name": "Scoot",
+        "birthday-string": "June 13th",
+        "birthday": "13/6"
+    },
+    {
+        "name": "Shari",
+        "birthday-string": "April 10th",
+        "birthday": "10/4"
+    },
+    {
+        "name": "Sheldon",
+        "birthday-string": "February 26th",
+        "birthday": "26/2"
+    },
+    {
+        "name": "Shep",
+        "birthday-string": "November 24th",
+        "birthday": "24/11"
+    },
+    {
+        "name": "Sherb",
+        "birthday-string": "January 18th",
+        "birthday": "18/1"
+    },
+    {
+        "name": "Simon",
+        "birthday-string": "January 19th",
+        "birthday": "19/1"
+    },
+    {
+        "name": "Skye",
+        "birthday-string": "March 24th",
+        "birthday": "24/3"
+    },
+    {
+        "name": "Sly",
+        "birthday-string": "November 15th",
+        "birthday": "15/11"
+    },
+    {
+        "name": "Snake",
+        "birthday-string": "November 3rd",
+        "birthday": "3/11"
+    },
+    {
+        "name": "Snooty",
+        "birthday-string": "October 24th",
+        "birthday": "24/10"
+    },
+    {
+        "name": "Soleil",
+        "birthday-string": "August 9th",
+        "birthday": "9/8"
+    },
+    {
+        "name": "Sparro",
+        "birthday-string": "November 20th",
+        "birthday": "20/11"
+    },
+    {
+        "name": "Spike",
+        "birthday-string": "June 17th",
+        "birthday": "17/6"
+    },
+    {
+        "name": "Spork",
+        "birthday-string": "September 3rd",
+        "birthday": "3/9"
+    },
+    {
+        "name": "Sprinkle",
+        "birthday-string": "February 20th",
+        "birthday": "20/2"
+    },
+    {
+        "name": "Sprocket",
+        "birthday-string": "December 1st",
+        "birthday": "1/12"
+    },
+    {
+        "name": "Static",
+        "birthday-string": "July 9th",
+        "birthday": "9/7"
+    },
+    {
+        "name": "Stella",
+        "birthday-string": "April 9th",
+        "birthday": "9/4"
+    },
+    {
+        "name": "Sterling",
+        "birthday-string": "December 11th",
+        "birthday": "11/12"
+    },
+    {
+        "name": "Stinky",
+        "birthday-string": "August 17th",
+        "birthday": "17/8"
+    },
+    {
+        "name": "Stitches",
+        "birthday-string": "February 10th",
+        "birthday": "10/2"
+    },
+    {
+        "name": "Stu",
+        "birthday-string": "April 20th",
+        "birthday": "20/4"
+    },
+    {
+        "name": "Sydney",
+        "birthday-string": "June 21st",
+        "birthday": "21/6"
+    },
+    {
+        "name": "Sylvana",
+        "birthday-string": "October 22nd",
+        "birthday": "22/10"
+    },
+    {
+        "name": "Sylvia",
+        "birthday-string": "May 3rd",
+        "birthday": "3/5"
+    },
+    {
+        "name": "T-Bone",
+        "birthday-string": "May 20th",
+        "birthday": "20/5"
+    },
+    {
+        "name": "Tabby",
+        "birthday-string": "August 13th",
+        "birthday": "13/8"
+    },
+    {
+        "name": "Tad",
+        "birthday-string": "August 3rd",
+        "birthday": "3/8"
+    },
+    {
+        "name": "Tammi",
+        "birthday-string": "April 2nd",
+        "birthday": "2/4"
+    },
+    {
+        "name": "Tammy",
+        "birthday-string": "June 23rd",
+        "birthday": "23/6"
+    },
+    {
+        "name": "Tangy",
+        "birthday-string": "June 17th",
+        "birthday": "17/6"
+    },
+    {
+        "name": "Tank",
+        "birthday-string": "May 6th",
+        "birthday": "6/5"
+    },
+    {
+        "name": "Tasha",
+        "birthday-string": "November 30th",
+        "birthday": "30/11"
+    },
+    {
+        "name": "Teddy",
+        "birthday-string": "September 26th",
+        "birthday": "26/9"
+    },
+    {
+        "name": "Tex",
+        "birthday-string": "October 6th",
+        "birthday": "6/10"
+    },
+    {
+        "name": "Tia",
+        "birthday-string": "November 18th",
+        "birthday": "18/11"
+    },
+    {
+        "name": "Tiffany",
+        "birthday-string": "January 9th",
+        "birthday": "9/1"
+    },
+    {
+        "name": "Timbra",
+        "birthday-string": "October 21st",
+        "birthday": "21/10"
+    },
+    {
+        "name": "Tipper",
+        "birthday-string": "August 25th",
+        "birthday": "25/8"
+    },
+    {
+        "name": "Tom",
+        "birthday-string": "December 10th",
+        "birthday": "10/12"
+    },
+    {
+        "name": "Truffles",
+        "birthday-string": "July 28th",
+        "birthday": "28/7"
+    },
+    {
+        "name": "Tucker",
+        "birthday-string": "September 7th",
+        "birthday": "7/9"
+    },
+    {
+        "name": "Tutu",
+        "birthday-string": "September 15th",
+        "birthday": "15/9"
+    },
+    {
+        "name": "Twiggy",
+        "birthday-string": "July 13th",
+        "birthday": "13/7"
+    },
+    {
+        "name": "Tybalt",
+        "birthday-string": "August 19th",
+        "birthday": "19/8"
+    },
+    {
+        "name": "Ursala",
+        "birthday-string": "January 16th",
+        "birthday": "16/1"
+    },
+    {
+        "name": "Velma",
+        "birthday-string": "January 14th",
+        "birthday": "14/1"
+    },
+    {
+        "name": "Vesta",
+        "birthday-string": "April 16th",
+        "birthday": "16/4"
+    },
+    {
+        "name": "Vic",
+        "birthday-string": "December 29th",
+        "birthday": "29/12"
+    },
+    {
+        "name": "Victoria",
+        "birthday-string": "July 11th",
+        "birthday": "11/7"
+    },
+    {
+        "name": "Violet",
+        "birthday-string": "September 1st",
+        "birthday": "1/9"
+    },
+    {
+        "name": "Vivian",
+        "birthday-string": "January 26th",
+        "birthday": "26/1"
+    },
+    {
+        "name": "Vladimir",
+        "birthday-string": "August 2nd",
+        "birthday": "2/8"
+    },
+    {
+        "name": "Wade",
+        "birthday-string": "October 30th",
+        "birthday": "30/10"
+    },
+    {
+        "name": "Walker",
+        "birthday-string": "June 10th",
+        "birthday": "10/6"
+    },
+    {
+        "name": "Walt",
+        "birthday-string": "April 24th",
+        "birthday": "24/4"
+    },
+    {
+        "name": "Wart Jr.",
+        "birthday-string": "August 21st",
+        "birthday": "21/8"
+    },
+    {
+        "name": "Weber",
+        "birthday-string": "June 30th",
+        "birthday": "30/6"
+    },
+    {
+        "name": "Wendy",
+        "birthday-string": "August 15th",
+        "birthday": "15/8"
+    },
+    {
+        "name": "Whitney",
+        "birthday-string": "September 17th",
+        "birthday": "17/9"
+    },
+    {
+        "name": "Willow",
+        "birthday-string": "November 26th",
+        "birthday": "26/11"
+    },
+    {
+        "name": "Winnie",
+        "birthday-string": "January 31st",
+        "birthday": "31/1"
+    },
+    {
+        "name": "Wolfgang",
+        "birthday-string": "November 25th",
+        "birthday": "25/11"
+    },
+    {
+        "name": "Yuka",
+        "birthday-string": "July 20th",
+        "birthday": "20/7"
+    },
+    {
+        "name": "Zell",
+        "birthday-string": "June 7th",
+        "birthday": "7/6"
+    },
+    {
+        "name": "Zucker",
+        "birthday-string": "March 8th",
+        "birthday": "8/3"
     }
 ]
-}
